@@ -12,7 +12,7 @@
 #ifndef __DEVICE_CONFIG_H__
 #define __DEVICE_CONFIG_H__
 
-#define PANDO_PRODUCT_KEY "d9db7e6a7e11bcd81da5230ad1e3647947f1fb4bf1ff7efa949cea17bab780f3"
+#define PANDO_PRODUCT_KEY "5811bc2cb6ac1b22a1fc62b76d6fac02dc4c036598ac1ac630a6d9f1b2f270ef"
 
 #endif
 
